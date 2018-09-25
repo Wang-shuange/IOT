@@ -1,5 +1,0 @@
-git is a version control system.
-git is free software
-this is my first git demo
-git is distributed version control system
-
