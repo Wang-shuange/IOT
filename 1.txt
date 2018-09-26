@@ -7,4 +7,7 @@ wang shuange<F5>
 this is my name is wang shuange
 
 this is wang
+ngshuange
+ni shuo de ni wang
 
+git hub 是一个版本管控软件，除了能在项目开发时进行代码管理外，最主要的是可以进行协同作业，这样对一个团队是非常有帮助的。
